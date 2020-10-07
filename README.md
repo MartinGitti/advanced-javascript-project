@@ -1,5 +1,21 @@
-# advanced-javascript-project
+# first-look-at-javascript
+<p>This is my first project working with JavaScript.</p>
 *This project takes a look at some of the basics, specifically looking at Variables and Operators of JavaScript.
+
+## Introduction to JavaScript:
+
+## Within the project, we'll take a look at a few javaScript basics:
+* Console.log= Displaying info in console.
+* Data Types.
+* Variables.
+* Operators.
+
+<b>Please note:</b>
+
+* In order to run code in the console, it is important to install Node.js first.
+* Run code or display variables in the console by typing "node & 'File Name'".
+* Example: 'node dataType.js'.
+* Bare in mind that this needs to be typed within the command line interface/terminal.
 
 <h2>Data Types of JavaScript:</h2>
 <img src="Code snippets/dataTypes.JPG" alt="Snippet of code run in terminal">
